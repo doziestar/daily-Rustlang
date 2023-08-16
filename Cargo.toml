@@ -1,5 +1,5 @@
 [package]
-name = "daily-Rustlang"
+name = "daily-rustlang"
 version = "0.1.0"
 edition = "2021"
 
