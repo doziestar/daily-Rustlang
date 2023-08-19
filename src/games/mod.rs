@@ -1,2 +1,1 @@
-mod guessing;
-mod guessing_game_test;
+pub(crate) mod guessing;
